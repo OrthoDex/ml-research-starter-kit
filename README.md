@@ -4,7 +4,7 @@ Hello there! I created this repository to list resources to get started with res
 
 It's hard for people interested in conducting research in ML to publish papers, attend conferences and receive mentorship outside of PhD programs.
 
-The resources listed here are specifically meant for people who have some familiarity or interest in Machine Learning, but do not have the financial support to pursue a PhD or visibility to work at large research labs.
+The resources listed here are specifically meant for people who have some familiarity or interest in Machine Learning, but do not have the financial support to pursue a PhD or visibility to work at large research labs. This list will be periodically updated, if there's any information that is incorrect I'd be happy to update it via an Issue/Pull Request.
 
 - [Research Labs](#research-labs)
 - [Blog Posts](#blog-posts)
@@ -14,13 +14,15 @@ The resources listed here are specifically meant for people who have some famili
 
 ## Research Labs
 
-A list of labs/startups that welcome newcomers to ML Research.
+A list of research efforts, labs and startups that welcome newcomers to ML Research.
 
 |Opportunity|Link|Paid?|Visa Support|
-|-----------|----|-----|-------------|------------|
+|-----------|----|-----|-------------|
 |MILA Internship|[Link](https://mila.quebec/en/admission-process-for-interns/)|Yes|Yes|
 |Wadhwani AI Research Fellow|[Link](https://www.wadhwaniai.org/careers/#op-350475-research-fellow)|Yes|Unknown|
 |Openmined Fellows|[Link 1](https://www.openmined.org/) [Link 2](https://blog.openmined.org/announcing-the-pytorch-openmined-federated-learning-fellowships/)|Yes|N/A - Remote|
+|For.ai|[Link](https://for.ai/)|Unknown|N/A - Remote|
+|Masakhane|[Link](https://www.masakhane.io/)|Unknown|N/A - Remote|
 
 
 
